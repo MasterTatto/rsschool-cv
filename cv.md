@@ -1,20 +1,20 @@
 # Name
 Aleksandr Hramyka
 
--—
+---
 
 
 # Contacts
 Location: Belarus - Minsk , [Telegram](https://t.me/master_thunder) , E-mail: gromvolk97@gmail.com
 
--—
+---
 
 # About me
 
 I want to study programming. It is interesting. There is always movement forward.
 You do not stand still. It's better than my job. At my job, I die physically) And mb i can fast learner )
 
--—
+---
 
 
 # Skill
@@ -24,7 +24,7 @@ I know a little JS. Made a mini-game according to the template. I understand the
 HTML and CSS i know too. First time using GitHub.
 
 
--—
+---
 
 # Code
 
@@ -86,7 +86,7 @@ display.innerHTML = 5 + ' sec'
 }
 ```
 
--—
+---
 
 
 
@@ -94,13 +94,13 @@ display.innerHTML = 5 + ' sec'
 
 Practicing with myself
 
--—
+---
 
 # Education
 
 My education is not related to programming
 
--—
+---
 
 # English
 

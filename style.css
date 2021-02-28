@@ -70,7 +70,7 @@ nav {
     flex-direction: column;
     max-width: 100%;
     background-color:#222;
-
+    margin: 0 auto ;
 }
 h2 {
     color:greenyellow;
